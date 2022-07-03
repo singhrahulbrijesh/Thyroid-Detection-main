@@ -4,7 +4,7 @@
 To build a classification methodology to predict the type of Thyroid based on the given training data.
 
 ## Architecture
-![](Images/architecture.jpg)
+![](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/Thyroid-Detection-main/Images/architecture.jpg)
 
 <a href="https://drive.google.com/uc?export=view&id=1Pg1EQG6dGE-rC7-ug9k-QXnaSvrGRAZ1"><img src="https://drive.google.com/uc?export=view&id=1Pg1EQG6dGE-rC7-ug9k-QXnaSvrGRAZ1" style="width: 100px; max-width: 50%; height: auto" title="Click for the larger version." /></a>
 <a href="https://drive.google.com/uc?export=view&id=1Pc8kV7yDDvvv5VE9h4DJhTliiTtpJSfj"><img src="https://drive.google.com/uc?export=view&id=1Pc8kV7yDDvvv5VE9h4DJhTliiTtpJSfj" style="width: 100px; max-width: 50%; height: auto" title="Click for the larger version." /></a>
