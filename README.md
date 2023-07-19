@@ -72,7 +72,12 @@ In this step, we perform different sets of validation on the given set of traini
 
 ## Deployment
 We will be deploying the model to the any Cloud Based Service Platform for example, AWS, Azure, GCP, Heroku or Pivotal Web Services. 
-This is a workflow diagram for the prediction of using the trained model.                 
+This is a workflow diagram for the prediction of using the trained model.   
+
+
+Result: - 
+Designed a scalable end-to-end machine learning pipeline utilizing clustering and classification techniques to accurately determine compensation for hypothyroidism in patients and the AUC score of 0.9%.
+Achieved an impressive accuracy of 94.5%, ensuring reliable and accurate predictions for patient diagnosis.
 
 
 
