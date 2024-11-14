@@ -18,7 +18,7 @@ In essence, this project aims to provide a valuable tool for early detection and
 Heroku: https://batchprediction.herokuapp.com/
 
 ## Demo 
-
+![]([https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/Thyroid-Detection-main/Images/architecture.jpg](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4))
 
 
 ## Architecture
