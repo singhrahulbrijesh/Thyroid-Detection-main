@@ -22,7 +22,7 @@ Heroku: https://batchprediction.herokuapp.com/
 
 **Video Demo:**
 
-[![Watch the video](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)]
+[Watch the video](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)
 
 ##![](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)
 
