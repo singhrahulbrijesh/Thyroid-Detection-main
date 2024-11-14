@@ -1,4 +1,4 @@
-Thyroid-Detection using Machine Learning techniques
+## **Thyroid-Detection using Machine Learning techniques**
 
 ## Problem Statement
 Thyroid disease is a widespread health issue in India, affecting over 10 million people annually. This condition can disrupt the body's metabolism, either speeding it up or slowing it down. This project aimed to develop a tool that could help identify different types of thyroid disorders.
@@ -81,16 +81,16 @@ In this step, we perform different sets of validation on the given set of traini
  
 1) Data Export from Db
 2) Data Preprocessing   
-   a) Drop columns not useful for training the model. Such columns were selected while doing the EDA.
+   a) Drop columns are not useful for training the model. Such columns were selected while doing the EDA.
    b) Replace the invalid values with numpy “nan” so we can use imputer on such values.
    c) Encode the categorical values
    d) Check for null values in the columns. If present, impute the null values using the KNN imputer.
-3) Clustering - KMeans model created during training is loaded, and clusters for the preprocessed prediction data is predicted.
+3) Clustering - The KMeans model created during training is loaded, and clusters for the preprocessed prediction data is predicted.
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions along with the original names before label encoder are saved in a CSV file at a given location and the location is returned to the client.
 
 ## Deployment
-We will be deploying the model to the any Cloud Based Service Platform for example, AWS, Azure, GCP, Heroku or Pivotal Web Services. 
+We can deploy to Cloud Based Service Platforms for example Heroku or AWS, GCP, AZURE. 
 This is a workflow diagram for the prediction of using the trained model.   
 
 
