@@ -23,7 +23,8 @@ Heroku: https://batchprediction.herokuapp.com/
 **Video Demo:**
 **Video Demo:**
 
-[![Watch the video](https://github.com/user-attachments/assets/1c9cd834-e1c9-4c40-8b7a-5bdc14527f48)
+[![Watch the video] - 
+https://github.com/user-attachments/assets/1c9cd834-e1c9-4c40-8b7a-5bdc14527f48
 
 
 
