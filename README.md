@@ -14,16 +14,10 @@ To make this model accessible to people, we deployed it as a web application usi
 
 In essence, this project aims to provide a valuable tool for early detection and diagnosis of thyroid disorders in India, potentially improving the lives of millions of people.
 
-## Heroku link - if this is not working then it might be the free trial has been ended :)
+## Heroku link - If the below link is not working, the free trial period may have ended. However, you can see the video below :)
 Heroku: https://batchprediction.herokuapp.com/
 
-## Demo 
-# Thyroid Disease Detection
-
-**Video Demo:**
-**Video Demo:**
-
-[![Watch the video] - 
+[Watch the video] - 
 
 https://github.com/user-attachments/assets/a1774601-42e2-483e-bd4d-d66053772a70
 
