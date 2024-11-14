@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb"><img src="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb" style="width: 10px; max-width:10%; height: 10px"/></a>
+<a href="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb"><img src="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb" style="width: 10px; max-width:10%; height: 10 px"/></a>
 # Thyroid-Detection
 ## Problem Statement
 Thyroid disease is a widespread health issue in India, affecting over 10 million people annually. This condition can disrupt the body's metabolism, either speeding it up or slowing it down. This project aimed to develop a tool that could help identify different types of thyroid disorders.
@@ -24,7 +24,7 @@ Heroku: https://batchprediction.herokuapp.com/
 
 [![Watch the video](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)]
 
-![](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)
+##![](https://github.com/singhrahulbrijesh/Thyroid-Detection-main/blob/master/New%20Project.mp4)
 
 
 ## Architecture
