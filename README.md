@@ -1,12 +1,12 @@
-<a href="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb"><img src="https://drive.google.com/uc?export=view&id=1PrxTszNGBDew_sxVPdWru006U0b_bKcb" style="width: 10px; max-width:10%; height: 10 px"/></a>
-# Thyroid-Detection
+Thyroid-Detection using Machine Learning techniques
+
 ## Problem Statement
 Thyroid disease is a widespread health issue in India, affecting over 10 million people annually. This condition can disrupt the body's metabolism, either speeding it up or slowing it down. This project aimed to develop a tool that could help identify different types of thyroid disorders.
 
 ## How the Project Works
 We used machine learning to build a model that can predict whether a person has compensated hypothyroidism, primary hypothyroidism, secondary hypothyroidism, or no thyroid disorder at all. To do this, we trained the model on a large dataset of patient information from the UCI Machine Learning Repository.
 
-We experimented with several machine-learning algorithms, including Random Forest, XGBoost, and KNN. After fine-tuning these algorithms, we found that XGBoost performed the best, achieving high accuracy, precision, and recall.
+We experimented with several machine-learning algorithms, including **Random Forest**, **XGBoost**, and **KNN**. After fine-tuning these algorithms, we found that XGBoost performed the best, achieving high accuracy, precision, and recall.
 
 ## Real-World Application
 
